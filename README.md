@@ -52,10 +52,16 @@ Hello, my name is Shobhit Aggarwal and I am a BTech student at [Netaji Subhas Un
 ![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0109&hide=TeX&layout=compact)
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shobhit0109) -->
-
 ### Visitor count
 <img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
+
+### Last Stars
+[![Last Stars Display](https://badges.pufler.dev/last-stars/Shobhit0109?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+
+### Other Info
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
+[![Repos Badge](https://badges.pufler.dev/repos/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
+[![Years Badge](https://badges.pufler.dev/years/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 
 <hr />
 ### 📫 Reach me at
