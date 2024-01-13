@@ -76,3 +76,8 @@ Hello, my name is Shobhit Aggarwal and I am a BTech student at [Netaji Subhas Un
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shobhit0109)
 
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shobhit_code)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Shobhit0109)
+
+[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@Shobhit0109)
