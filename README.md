@@ -22,7 +22,7 @@ Hello, my name is Shobhit Aggarwal and I am a BTech student at [Netaji Subhas Un
 - 📫 How to reach me: shobhit.utube0109@gmail.com
 <!-- - 😄 Pronouns: Programmer/He/tech 
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious! -->
-- 📝 [Resume](https://drive.google.com/drive/folders/1N4ScKnZsYAXzLK9rSs-vNRDiZy9AAkr4?usp=sharing)
+- 📝 [Resume](https://github.com/Shobhit0109/Shobhit0109/blob/master/src/Shobhit%20Resume.pdf)
 
 **Languages and Tools:** 
 <!--
