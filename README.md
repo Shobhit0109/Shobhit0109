@@ -43,7 +43,16 @@ Hello, my name is Shobhit Aggarwal and I am a BTech student at [Netaji Subhas Un
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 -->
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true)
+<hr />
+
+![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0109&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shobhit0109)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shobhit0109) -->
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
+<!--
+### 📫 Reach me at 
+![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/) -->
