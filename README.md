@@ -46,7 +46,6 @@ Hello, my name is Shobhit Aggarwal and I am a BTech student at [Netaji Subhas Un
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black)&nbsp;&nbsp;
 
-
 <hr />
 
 ![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true)
@@ -64,8 +63,8 @@ Hello, my name is Shobhit Aggarwal and I am a BTech student at [Netaji Subhas Un
 [![Years Badge](https://badges.pufler.dev/years/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 
 <hr />
-### 📫 Reach me at
 
+### 📫 Reach me at
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shobhit-aggarwal-71598225/)&nbsp;&nbsp;
 ![Twitter Follow](https://img.shields.io/twitter/follow/Shobhit0109?style=social)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shobhit_0901/)&nbsp;&nbsp;
