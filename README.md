@@ -56,8 +56,23 @@ Hello, my name is Shobhit Aggarwal and I am a BTech student at [Netaji Subhas Un
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
-<!--
+
+<hr />
 ### 📫 Reach me at
-![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/) 
--->
+
+![Twitter Follow](https://img.shields.io/twitter/follow/Shobhit0109?style=social)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shobhit-aggarwal-71598225/) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shobhit_0901/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9953662231)
+
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Shobhit0109)
+
+
+### 👨🏻‍💻 Tech Social Media
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/shobhit0109/)
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shobhit0109)
+
