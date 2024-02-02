@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,Delhi](http://nsut.ac.in/en/home) majoring in Computer Science. I am a full-stack software developer. My technology stack involves javascript/typescript, Cplusplus/C, rust, linux, python and, HTML/CSS. Besides programming, I love to learn new topics.
+Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](http://nsut.ac.in/en/home) majoring in Computer Science. I am a full-stack software developer. My technology stack involves javascript/typescript, Cplusplus/C, rust, linux, python and, HTML/CSS. Besides programming, I love to learn new topics.
 <!--
 - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/) -->
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
