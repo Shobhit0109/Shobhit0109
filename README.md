@@ -77,3 +77,6 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shobhit_code)&nbsp;&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Shobhit0109)&nbsp;&nbsp;
 [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@Shobhit0109)&nbsp;&nbsp;
+
+<hr />
+<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" width=512 height=512 align="center" />
