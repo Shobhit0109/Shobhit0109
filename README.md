@@ -1,4 +1,6 @@
-### Hi there 👋, I am [Shobhit](https://www.linkedin.com/in/shobhit-aggarwal-71598225/)! 😁
+<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/Bottom.svg" alt="Github Stats" />
+
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, I am [Shobhit](https://www.linkedin.com/in/shobhit-aggarwal-71598225/)!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,6 +18,9 @@ Here are some ideas to get you started:
 -->
 
 Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](http://nsut.ac.in/en/home) majoring in Computer Science. I am a full-stack software developer. My technology stack involves javascript/typescript, Cplusplus/C, rust, linux, python and, HTML/CSS. Besides programming, I love to learn new topics.
+
+  <img align="right" alt="GIF" src="https://github.com/Shobhit0109/Shobhit0109/blob/master/src/code.gif?raw=true" height="200" />
+  
 <!--
 - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/) -->
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
@@ -45,11 +50,12 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black)&nbsp;&nbsp;
-
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0109&hide=TeX&layout=compact&show_icons=true&theme=transparent)
 <hr />
 <!-- 
-![](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0109&hide=TeX&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true) -->
+
 ## GitHub Stats
 
 ![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  ![Shobhit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0109&theme=vue-dark&hide_border=false)
@@ -58,7 +64,13 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 [![Gists Badge](https://badges.pufler.dev/gists/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 [![Years Badge](https://badges.pufler.dev/years/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 
-### Visitor count
+<details>
+<summary>:trophy: Github Awards</summary>
+<!-- <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shobhit0109"> -->
+<img src="https://github-profile-trophy.vercel.app/?username=shobhit0109&theme=onedark">
+</details>
+
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Visitor count
 <img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
 
 ### 📫 Reach me at
@@ -77,9 +89,15 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 
 <hr />
 
-### Last Stars
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  Last Stars
 [![Last Stars Display](https://badges.pufler.dev/last-stars/Shobhit0109?count=6&padding=20&perRow=3)](https://badges.pufler.dev)
 
 
 <hr />
-<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" width=512 height=512 align="center" />
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome! <img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" width=512 height=512 align="center" />
+</i>⚡️</h1>
