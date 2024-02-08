@@ -47,22 +47,19 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black)&nbsp;&nbsp;
 
 <hr />
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0109&hide=TeX&layout=compact) -->
+## GitHub Stats
 
-![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0109&hide=TeX&layout=compact)
+![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  ![Shobhit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0109&theme=vue-dark&hide_border=false)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
+[![Repos Badge](https://badges.pufler.dev/repos/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
+[![Gists Badge](https://badges.pufler.dev/gists/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
+[![Years Badge](https://badges.pufler.dev/years/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
-
-### Last Stars
-[![Last Stars Display](https://badges.pufler.dev/last-stars/Shobhit0109?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
-
-### Other Info
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
-[![Repos Badge](https://badges.pufler.dev/repos/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
-[![Years Badge](https://badges.pufler.dev/years/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
-
-<hr />
 
 ### 📫 Reach me at
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shobhit-aggarwal-71598225/)&nbsp;&nbsp;
@@ -77,6 +74,12 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shobhit_code)&nbsp;&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Shobhit0109)&nbsp;&nbsp;
 [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@Shobhit0109)&nbsp;&nbsp;
+
+<hr />
+
+### Last Stars
+[![Last Stars Display](https://badges.pufler.dev/last-stars/Shobhit0109?count=6&padding=20&perRow=3)](https://badges.pufler.dev)
+
 
 <hr />
 <img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" width=512 height=512 align="center" />
