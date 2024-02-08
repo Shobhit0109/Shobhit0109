@@ -51,24 +51,22 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black)&nbsp;&nbsp;
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0109&hide=TeX&layout=compact&show_icons=true&theme=transparent)
+![Top Langs](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=shobhit0109&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot)
 <hr />
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true) -->
 
 ## GitHub Stats
 
-![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  ![Shobhit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0109&theme=vue-dark&hide_border=false)
+![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&theme=radical&show_icons=true&hide_border=false&count_private=true)  ![Shobhit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0109&theme=radical&hide_border=false)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 [![Repos Badge](https://badges.pufler.dev/repos/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 [![Gists Badge](https://badges.pufler.dev/gists/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 [![Years Badge](https://badges.pufler.dev/years/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 
-<details>
-<summary>:trophy: Github Awards</summary>
+### :trophy: Github Awards
 <!-- <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shobhit0109"> -->
-<img src="https://github-profile-trophy.vercel.app/?username=shobhit0109&theme=onedark">
-</details>
+<img src="https://github-profile-trophy.vercel.app/?username=shobhit0109&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
 
 ###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Visitor count
 <img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
