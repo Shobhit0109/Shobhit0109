@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/Bottom.svg" alt="Github Stats" />
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/Bottom.svg" alt="Github Stats" /></p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, I am [Shobhit](https://www.linkedin.com/in/shobhit-aggarwal-71598225/)!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <!--
