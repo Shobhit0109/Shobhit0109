@@ -31,28 +31,33 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 - 📝 [Resume](https://github.com/Shobhit0109/Shobhit0109/blob/master/src/Shobhit%20Resume.pdf)
 
 **Languages and Tools:** 
-<!--
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
--->
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black)&nbsp;&nbsp;
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 <br>
-![Top Langs](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=shobhit0109&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit0109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <hr />
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true) -->
@@ -60,6 +65,7 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 ## GitHub Stats
 
 ![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&theme=radical&show_icons=true&hide_border=false&count_private=true)  ![Shobhit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0109&theme=radical&hide_border=false)
+
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 [![Repos Badge](https://badges.pufler.dev/repos/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
 [![Gists Badge](https://badges.pufler.dev/gists/shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
@@ -73,11 +79,11 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 <img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
 
 ### 📫 Reach me at
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shobhit-aggarwal-71598225/)&nbsp;&nbsp;
-![Twitter Follow](https://img.shields.io/twitter/follow/Shobhit0109?style=social)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shobhit_0901/)&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9953662231)&nbsp;&nbsp;
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Shobhit0109)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30">](https://www.linkedin.com/in/shobhit-aggarwal-71598225/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="30">](https://twitter.com/Shobhit0109)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30">](https://www.instagram.com/shobhit_0901/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>](https://wa.me/9953662231)&nbsp;&nbsp;
+[  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />](https://t.me/shobhit0109)&nbsp;&nbsp;
 
 ### 👨🏻‍💻 Tech Social Media
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/shobhit0109/)&nbsp;&nbsp;
@@ -91,12 +97,16 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  Last Stars
 [![Last Stars Display](https://badges.pufler.dev/last-stars/Shobhit0109?count=6&padding=20&perRow=3)](https://badges.pufler.dev)
 
-
 <hr />
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 
 <p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i>Stay awesome! <img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" width=512 height=512 align="center" />
-</i>⚡️</h1>
+<h1 align='left'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" align="left" />
+<a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ppv5fp3s2q4g6peacpd3rwduma&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile" align="right" />
+</a>
+
+
