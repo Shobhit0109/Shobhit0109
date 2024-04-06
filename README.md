@@ -64,6 +64,8 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 
 ## GitHub Stats
 
+<img src="https://raw.githubusercontent.com/shobhit0109/shobhit0109/output/snake.svg" alt="Snake animation" />
+
 ![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&theme=radical&show_icons=true&hide_border=false&count_private=true)  ![Shobhit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0109&theme=radical&hide_border=false)
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Shobhit0109)](https://badges.pufler.dev)&nbsp;&nbsp;
