@@ -65,6 +65,7 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 ## GitHub Stats
 
 <img src="https://raw.githubusercontent.com/shobhit0109/shobhit0109/output/snake.svg" alt="Snake animation" />
+<a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shobhit0109&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
 
 ![Shobhit's Github Stats](https://github-readme-stats.vercel.app/api?username=Shobhit0109&theme=radical&show_icons=true&hide_border=false&count_private=true)  ![Shobhit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0109&theme=radical&hide_border=false)
 
@@ -76,9 +77,6 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 ### :trophy: Github Awards
 <!-- <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shobhit0109"> -->
 <img src="https://github-profile-trophy.vercel.app/?username=shobhit0109&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
-
-###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Visitor count
-<img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
 
 ### 📫 Reach me at
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30">](https://www.linkedin.com/in/shobhit-aggarwal-71598225/)&nbsp;&nbsp;
@@ -105,10 +103,14 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 
 <p align="center">Made with ❤️ in India</p>
 
-<h1 align='left'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" align="left" />
-<a href="https://github.com/kittinan/spotify-github-profile">
+<div>
+  <h1 align='centre'>⚡️<i>Stay awesome!</i>⚡️</h1>
+  <img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" align="left" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ppv5fp3s2q4g6peacpd3rwduma&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile" align="right" />
-</a>
+  </a>
+</div>
+<br>
 
-
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Visitor count
+<img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
