@@ -103,14 +103,28 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 
 <p align="center">Made with ❤️ in India</p>
 
+<!-- ###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Visitor count
+<img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" /> -->
+
+<br>
 <div>
-  <h1 align='centre'>⚡️<i>Stay awesome!</i>⚡️</h1>
-  <img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" align="left" />
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ppv5fp3s2q4g6peacpd3rwduma&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile" align="right" />
-  </a>
-</div>
+<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<div>
+<img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
+  </div>
+<br> 
+</div>  
+
+
+<br>
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@Shobhit0109?theme=gelbooru" />
+  </div>
 <br>
 
-###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Visitor count
-<img src="https://profile-counter.glitch.me/Shobhit0109/count.svg" />
+
+<h1 align='centre'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" align="left" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ppv5fp3s2q4g6peacpd3rwduma&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile" align="right" />
