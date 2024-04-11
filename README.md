@@ -110,7 +110,7 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
-<img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
+<img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/2.gif" align="center" />
   </div>
 <br> 
 </div>  
@@ -124,7 +124,9 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
   </div>
 <br>
 
+<div align="center">
+  <h1 align='centre'>⚡️<i>Stay awesome!</i>⚡️</h1>
+</div>
 
-<h1 align='centre'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <img src="https://raw.githubusercontent.com/Shobhit0109/Shobhit0109/master/src/catpop.svg" align="left" />
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ppv5fp3s2q4g6peacpd3rwduma&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="spotify-github-profile" align="right" />
