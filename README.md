@@ -59,7 +59,9 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit0109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <hr />
+
 <!-- 
+https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit0109&layout=pie
 ![](https://github-readme-stats.vercel.app/api?username=Shobhit0109&count_private=true&show_icons=true&include_all_commits=true) -->
 
 ## GitHub Stats
@@ -83,7 +85,7 @@ Hello, I am Shobhit Aggarwal, BTech student at [Netaji Subhas Uniersity,India](h
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="30">](https://twitter.com/Shobhit0109)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30">](https://www.instagram.com/shobhit_0901/)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>](https://wa.me/9953662231)&nbsp;&nbsp;
-[  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />](https://t.me/shobhit0109)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />](https://t.me/shobhit0109)&nbsp;&nbsp;
 
 ### 👨🏻‍💻 Tech Social Media
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/shobhit0109/)&nbsp;&nbsp;
