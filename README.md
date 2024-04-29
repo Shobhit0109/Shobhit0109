@@ -51,9 +51,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shobhit0109/count.svg?"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/shobhit0109/count.svg?"  />
 
 ###
 
