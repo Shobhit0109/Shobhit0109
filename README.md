@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
 </div>
 
 ###
@@ -73,7 +75,7 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/shobhit0109/count.svg?"  />
+<img align="left" src="https://moe-counter.glitch.me/get/@Shobhit0109?theme=gelbooru"  />
 
 ###
 
@@ -84,3 +86,34 @@
 </div>
 
 ###
+
+<br>
+
+<div> 
+<p align = "center">
+  <a href="https://github.com/Shobhit0109"><img alt="Shobhit0109's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shobhit0109&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+</p>
+</div>
+
+<br clear="both">
+
+<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
+
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2023-01/158029af-a86a-402f-a5b5-e915cc69f138.JPG" width="200px"/> 
+
+```csharp
+My Profile
+-------------------------------
+Name: Shobhit.
+WhoamI: University Student 🏫.
+Gender: Male.
+Location: Delhi, India.
+Loves: Linux/android tricks 🎩, Stuff technology 🚀 & enterpenuar 📚.
+Hobbies: Linux customization's 🐧, Self-improvement tips & tricks 🌷.
+Languages: Fish, CPlusPlus, Python, NodeJS, Typescript.
+Learning: Computer Science.
+```
