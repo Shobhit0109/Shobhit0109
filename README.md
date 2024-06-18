@@ -89,17 +89,8 @@
 -->
 
 ###
-
-<br>
-
-<div> 
-<p align = "center">
-  <a href="https://github.com/Shobhit0109"><img alt="Shobhit0109's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shobhit0109&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
-</p>
-</div>
-
 <br clear="both">
-
+<hr>
 <h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
 
 ```zsh
@@ -120,3 +111,11 @@ Hobbies: Linux customization's 🐧, Self-improvement tips & tricks 🌷.
 Languages: Fish, CPlusPlus, Python, NodeJS, Typescript.
 Learning: Computer Science.
 ```
+<br clear="both">
+<hr>
+
+<div> 
+<p align = "center">
+  <a href="https://github.com/Shobhit0109"><img alt="Shobhit0109's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shobhit0109&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+</p>
+</div>
