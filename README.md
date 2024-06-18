@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhit0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit0109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit0109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=shobhit0109&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -67,6 +67,8 @@
   </a>
 </div>
 
+<!--
+
 ###
 
 <br clear="both">
@@ -84,6 +86,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ppv5fp3s2q4g6peacpd3rwduma&count=4&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+-->
 
 ###
 
