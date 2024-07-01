@@ -6,8 +6,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=shobhit0109&hide_title=false&hide_rank=false&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit0109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shobhit0109&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+ <!-- <img src="https://streak-stats.demolab.com?user=shobhit0109&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div> -->
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRuNmFlcHhhN3RmbDhwZmFjaG54Ymhoa3Rjczhmb2h4cnA1enNrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 <!-- 
@@ -129,7 +129,11 @@ Learning: Computer Science.
 
 <br>
 
-<h1 align="center"> 💻 Tech Stack </h1>
+<h1 align="center" style=""> 💻 Tech Stack 
+  
+  <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  -->
+  </h1> 
+
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
