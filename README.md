@@ -11,6 +11,11 @@ Welcome to my corner of innovation on GitHub! I'm a passionate developer driven 
 
 Explore my professional journey and get to know my background by checking out my [Resume](https://raw.githubusercontent.com/shobhit0109/shobhit0109/shobhitResume.pdf).
 
+### 🖼️ Resume Preview
+
+Take a sneak peek at my resume below—an insight into the career path I'm paving forward!
+[![Resume Preview](https://github.com/Shobhit0109/Shobhit0109/blob/resume/resume.png)](https://github.com/Shobhit0109/Shobhit0109/blob/resume/resume.png)
+
 ---
 
 ## 🚀 About Me
