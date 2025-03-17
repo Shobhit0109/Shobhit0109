@@ -1,3 +1,5 @@
+---
+
 # Hi there, I'm Shobhit 👋
 
 I'm a passionate developer with a forward-thinking mindset—constantly exploring innovative ways to build and share technology. Welcome to my GitHub profile!
@@ -12,6 +14,15 @@ I'm a passionate developer with a forward-thinking mindset—constantly explorin
 - 💬 Ask me about full-stack development, AI integrations, or creative coding!
 - 📫 How to reach me: [shobhit.utube0109@gmail.com](mailto:shobhit.utube0109@gmail.com)
 - ⚡ Fun fact: I believe coding can be as fun as playing a game—sometimes literally!
+
+---
+
+## 🏆 GitHub Trophies
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shobhit&theme=radical)](https://github.com/ryo-ma/github-profiletropy)
+
+*Generated using [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-rophy).*
 
 ---
 
@@ -57,5 +68,7 @@ Watch as a playful snake devours my contribution graph—a fun twist on visualiz
 
 <p align="center" height=200>
   <img height=300 align="center" src="https://anuraghazra-github-readme-stats-seven.vercel.app/api?username=shobhit0109&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My GitHub Stats" />
-   <img height=300 align="center" src="https://anuraghazra-github-readme-stats-seven.vercel.app/api/top-langs/?username=shobhit0109&show_icons=true&theme=radical&langs_count=6" alt="Top langs used in repo" />
-</p>
+   <img height=300 align="center" src="https://anuraghazra-github-readme-stats-seven.vercel.app/api/top-langs/?username=shobhit0109&show_icons=true&theme=radical&langs_count=6" alt="Top langs used in repo" /></p>
+
+---
+
