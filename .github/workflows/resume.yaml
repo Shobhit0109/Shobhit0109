@@ -27,11 +27,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Download the PDF resume from the provided URL
-      - name: Download PDF resume
-        run: |
-          curl -L https://raw.githubusercontent.com/shobhit0109/shobhit0109/shobhitResume.pdf -o shobhitResume.pdf
-
       # Install poppler-utils to use the pdftoppm command
       - name: Install poppler-utils
         run: |
