@@ -56,6 +56,6 @@ Watch as a playful snake devours my contribution graph—a fun twist on visualiz
 ## 📈 GitHub Stats
 
 <p align="center" height=200>
-  <img height=300 align="center" src="https://anuraghazrareadmestats.vercel.app/api?username=shobhit0109&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My GitHub Stats" />
-   <img height=300 align="center" src="https://anuraghazrareadmestats.vercel.app/api/top-langs/?username=shobhit0109&show_icons=true&theme=radical&langs_count=6" alt="Top langs used in repo" />
+  <img height=300 align="center" src="https://anuraghazra-github-readme-stats-seven.vercel.app/api?username=shobhit0109&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My GitHub Stats" />
+   <img height=300 align="center" src="https://anuraghazra-github-readme-stats-seven.vercel.app/api/top-langs/?username=shobhit0109&show_icons=true&theme=radical&langs_count=6" alt="Top langs used in repo" />
 </p>
