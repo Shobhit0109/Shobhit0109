@@ -1,0 +1,55 @@
+name: Convert PDF to PNG
+
+on:
+  # Automatically run every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allows manual trigger
+  workflow_dispatch:
+
+  # Run on pushes to the main branch when shobhitResume.pdf is changed
+  push:
+    branches:
+      - main
+    paths:
+      - shobhitResume.pdf
+
+jobs:
+  convert:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      # Checkout the repository so we can use the workspace
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Download the PDF resume from the provided URL
+      - name: Download PDF resume
+        run: |
+          curl -L https://raw.githubusercontent.com/shobhit0109/shobhit0109/shobhitResume.pdf -o shobhitResume.pdf
+
+      # Install poppler-utils to use the pdftoppm command
+      - name: Install poppler-utils
+        run: |
+          sudo apt-get update && sudo apt-get install -y poppler-utils
+
+      # Create output directory for the generated image
+      - name: Create output directory
+        run: mkdir -p dist
+
+      # Convert the first page of the PDF to a PNG image
+      - name: Convert first page of PDF to PNG
+        run: pdftoppm -png -f 1 -l 1 -singlefile shobhitResume.pdf dist/resume
+
+      # Push the generated PNG to the "resume" branch
+      - name: Push resume.png to resume branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: resume
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
