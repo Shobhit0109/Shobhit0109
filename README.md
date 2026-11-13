@@ -43,10 +43,4 @@ Enjoy watching my coding journey come alive with this fun snake animation that h
 
 ---
 
-## 🌐 Connect with Me
-
-I'm always excited to connect with fellow tech enthusiasts and innovators. Whether you have an idea to share or want to collaborate, let's connect on [GitHub](https://github.com/shobhit0109) or drop me an email at [shobhit.utube0109@gmail.com](mailto:shobhit.utube0109@gmail.com).
-
----
-
 *Keep pushing the boundaries of what's possible—let's shape the future together!*
